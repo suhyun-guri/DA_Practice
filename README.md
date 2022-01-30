@@ -1,3 +1,2 @@
-# Data Analysis Practice Repository
-- 데이터 분석 예제 연습 Jupyter Notebook Upload 공간입니다.
-- 주로 Kaggle 대회를 활용합니다.
+# Kaggle
+- Kaggle 내 관심 있는 대회에 참여하거나 코드를 참고하여 구축한 모델을 기록합니다.
